@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/GAVINV-37/GGh5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## GG的第一个网页诶！！！
+您可以使用[GitHub上的编辑器]（https://github.com/GAVINV-37/GGh5/edit/gh-pages/index.md）维护和预览Markdown文件中网站的内容。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
